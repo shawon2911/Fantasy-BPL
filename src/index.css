@@ -1,0 +1,7 @@
+body{
+    max-width: 1280px;
+    margin: 0 auto;
+}
+.navbar-menu li {
+    color: rgba(19, 19, 19, 0.7);
+}
