@@ -1,0 +1,102 @@
+[
+  {
+    "playerName": "Shakib Al Hasan",
+    "playerCountry": "Bangladesh",
+    "playerType": "All-Rounder",
+    "rating": 95,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm orthodox",
+    "price": "$150,000",
+    "image": "https://i.ibb.co.com/rfQ3mNWn/shakib.avif"
+  },
+  {
+    "playerName": "Virat Kohli",
+    "playerCountry": "India",
+    "playerType": "Batsman",
+    "rating": 98,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm occasional",
+    "price": "$200,000",
+    "image": "https://i.ibb.co.com/yF1HdZsr/virat.webp"
+  },
+  {
+    "playerName": "Mitchell Starc",
+    "playerCountry": "Australia",
+    "playerType": "Bowler",
+    "rating": 92,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm fast",
+    "price": "$130,000",
+    "image": "https://i.ibb.co.com/XkJX4n9J/starck.avif"
+  },
+  {
+    "playerName": "Chris Gayle",
+    "playerCountry": "West Indies",
+    "playerType": "Batsman",
+    "rating": 94,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": "$180,000",
+    "image": "https://i.ibb.co.com/VW8gGV58/gayle.jpg"
+  },
+  {
+    "playerName": "Rashid Khan",
+    "playerCountry": "Afghanistan",
+    "playerType": "Bowler",
+    "rating": 96,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm legbreak",
+    "price": "$160,000",
+    "image": "https://i.ibb.co.com/HTVHqkXx/rashed.jpg"
+  },
+  {
+    "playerName": "Jos Buttler",
+    "playerCountry": "England",
+    "playerType": "Wicket-Keeper Batsman",
+    "rating": 93,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm occasional",
+    "price": "$170,000",
+    "image": "https://i.ibb.co.com/HpBF5mxR/josbulter.webp"
+  },
+  {
+    "playerName": "AB de Villiers",
+    "playerCountry": "South Africa",
+    "playerType": "Batsman",
+    "rating": 97,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm occasional",
+    "price": "$190,000",
+    "image": "https://i.ibb.co.com/0yyJcNVq/abde.jpg"
+  },
+  {
+    "playerName": "Ben Stokes",
+    "playerCountry": "England",
+    "playerType": "All-Rounder",
+    "rating": 95,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm fast-medium",
+    "price": "$175,000",
+    "image": "https://i.ibb.co.com/nNqgfGTx/stokes.jpg"
+  },
+  {
+    "playerName": "Andre Russell",
+    "playerCountry": "West Indies",
+    "playerType": "All-Rounder",
+    "rating": 94,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast-medium",
+    "price": "$165,000",
+    "image": "https://i.ibb.co.com/qFMv4SzB/russel.webp"
+  },
+  {
+    "playerName": "David Warner",
+    "playerCountry": "Australia",
+    "playerType": "Batsman",
+    "rating": 92,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm occasional",
+    "price": "$160,000",
+    "image": "https://i.ibb.co.com/5XPLv9wm/david.webp"
+  }
+]
