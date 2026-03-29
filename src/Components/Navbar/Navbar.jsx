@@ -1,7 +1,7 @@
 import React from "react";
 import navbarLogo from "../../assets/logo.png";
 import coinImage from "../../assets/Currency.png";
-const Navbar = () => {
+const Navbar = ({coin, setCoin}) => {
   return (
     <div>
       <div className="navbar bg-base-100 mt-3">
@@ -44,25 +44,27 @@ const Navbar = () => {
           </div>
           <img src={navbarLogo} alt="" />
         </div>
-        <div className="navbar-end hidden lg:flex">
-          <ul className="menu menu-horizontal navbar-menu space-x-6">
-            <li>
-              <a>Home</a>
-            </li>
-            <li>
-              <a>Fixture</a>
-            </li>
-            <li>
-              <a>Teams</a>
-            </li>
-            <li>
-              <a>Schedules</a>
-            </li>
-            <button className="btn flex justify-center items-center">
-              <span className="mr-2 font-bold">0 Coins</span>
+        <div className="navbar-end ">
+          <div className="">
+            <ul className="menu menu-horizontal navbar-menu space-x-6">
+              <li>
+                <a>Home</a>
+              </li>
+              <li>
+                <a>Fixture</a>
+              </li>
+              <li>
+                <a>Teams</a>
+              </li>
+              <li>
+                <a>Schedules</a>
+              </li>
+            </ul>
+          </div>
+           <button className="btn flex  justify-center items-center ">
+              <span className="mr-2 font-bold">${coin}</span>
               <img src={coinImage} alt="" />
-            </button>
-          </ul>
+            </button> 
         </div>
       </div>
     </div>
