@@ -3,6 +3,7 @@ import "./App.css";
 import Banner from "./Components/Banner/Banner";
 import Navbar from "./Components/Navbar/Navbar";
 import Players from "./Components/Players/Players";
+import { ToastContainer } from "react-toastify";
 
 
 const fetchPlayer = async() => {
@@ -22,7 +23,9 @@ function App() {
      <Suspense fallback={<span className="loading loading-spinner text-error items-center"></span>}>
       <Players playersPromise={playersPromise} coin={coin} setCoin={setCoin}></Players>
      </Suspense>
-    
+     
+     {/* react toastfiy */}
+     <ToastContainer></ToastContainer>
     </>
   );
 }
